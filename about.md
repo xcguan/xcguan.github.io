@@ -12,4 +12,6 @@ permalink: /about/
 
 访问[http://hwdong.net](http://hwdong.net)
 
-关注B站和微博: hw-dong
+B站[hw-dong](https://space.bilibili.com/281453312)
+
+微博[hw-dong](https://weibo.com/u/6762417916)
