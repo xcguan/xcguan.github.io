@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+编程博客主站： [http://hwdong.net](http://hwdong.net)
 
 ### 欢迎关注
 
